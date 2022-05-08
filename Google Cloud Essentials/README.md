@@ -1,4 +1,4 @@
-# GCP Essentials
+# Google Cloud Essentials
 
 2022.05.06 ~ 
 
